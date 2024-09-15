@@ -148,7 +148,7 @@ class _HomescreenState extends State<Homescreen> {
                         children: [
                           Container(
                             height: h * 0.250,
-                            width: w * 0.400,
+                            width: 190,
                             margin: EdgeInsets.only(left: 10, right: 10),
                             decoration: BoxDecoration(
                                 borderRadius: BorderRadius.circular(15),
@@ -202,7 +202,7 @@ class _HomescreenState extends State<Homescreen> {
                         children: [
                           Container(
                             height: h * 0.250,
-                            width: w * 0.400,
+                            width: 190,
                             margin: EdgeInsets.only(left: 10, right: 10),
                             decoration: BoxDecoration(
                                 borderRadius: BorderRadius.circular(15),

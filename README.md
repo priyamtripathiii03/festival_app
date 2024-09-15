@@ -1,16 +1,8 @@
-# festival_app
+# Festival App
+<p>
+  <img src="https://github.com/user-attachments/assets/3fdc7687-dd77-440b-bba9-d545c2c0f115"height="35%" width="22%">
+   <img src="https://github.com/user-attachments/assets/e128bdb1-0fc0-4f78-af4f-41018bcc2333"height="35%" width="22%">
+</p>
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

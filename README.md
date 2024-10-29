@@ -2,6 +2,10 @@
 
 Unleash your creativity with the Sanskriti Poster Maker app! Create stunning posters that celebrate culture, art, and tradition in just a few taps.
 
+
+## 🌟 Features:
+
+
 - User-Friendly Interface: Design effortlessly with our intuitive tools.
 - Rich Templates: Choose from a variety of vibrant templates inspired by Indian art and culture.
 - Customizable Text: Add your own message in beautiful fonts and colors! 🖋️
@@ -13,7 +17,7 @@ Unleash your creativity with the Sanskriti Poster Maker app! Create stunning pos
 Whether for events, festivals, or personal projects, the Sanskriti Poster Maker is your go-to app for expressing cultural pride. Download now and start creating! 🌈🎉
 
 
-## 🌟 Features:
+
 
 <p>
   <img src="https://github.com/user-attachments/assets/c30a6144-a298-4c05-8984-3feddc6bd3b7"height="35%" width="22%">

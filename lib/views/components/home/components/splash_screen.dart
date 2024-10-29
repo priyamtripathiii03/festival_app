@@ -23,7 +23,7 @@ class _Splash_ScreenState extends State<Splash_Screen> {
             Navigator.of(context).pushNamed('/second');
           },
           child: Container(
-            height: 400,
+            height: 500,
             width: 700,
             decoration: const BoxDecoration(
                 image: DecorationImage(
